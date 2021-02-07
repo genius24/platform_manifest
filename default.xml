@@ -18,7 +18,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build/make" name="SlimRoms/android_build" groups="pdk" >
+  <project path="build/make" name="Genius24/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
