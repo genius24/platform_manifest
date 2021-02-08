@@ -11,12 +11,12 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-8.1.0_r85" />
+           revision="refs/tags/android-8.1.0_r83" />
 
   <default revision="refs/heads/or8.1"
            remote="github"
            sync-c="true"
-           sync-j="4" />
+           sync-j="3" />
 
   <project path="build/make" name="Genius24/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
