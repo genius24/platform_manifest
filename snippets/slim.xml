@@ -14,6 +14,7 @@
   <project path="external/selinux" name="SlimRoms/android_external_selinux" />
   <project path="external/tinycompress" name="SlimRoms/android_external_tinycompress" />
   <project path="external/chromium-webview" name="SlimRoms/android_external_chromium-webview" />
+  <project path="external/opencv" name="Genius24/test1" />
   <project path="frameworks/av" name="SlimRoms/frameworks_av" />
   <project path="frameworks/base" name="Genius24/frameworks_base" />
   <project path="frameworks/native" name="SlimRoms/frameworks_native" />
